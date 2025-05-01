@@ -6,7 +6,7 @@
 
 A modern, responsive notes application built with React and powered by Supabase. Create, manage, and organize your notes with custom colors and real-time updates.
 
-![Notes App Screenshot](https://placehold.co/600x400?text=Notes+App+Demo)
+![Notes App Screenshot](https://steady-youtiao-9fb916.netlify.app/)
 
 ## ✨ Features
 
