@@ -200,8 +200,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Created with ❤️ by Saidul Hoque
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [saidul-122](https://github.com/saidul-122/quick-note-scribe-backend-)
+- LinkedIn: [Saidul Hoque](https://www.linkedin.com/in/saidul-hoque-767375237/)
 
 ## 🙏 Acknowledgments
 
